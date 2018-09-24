@@ -6,7 +6,7 @@
 .search-bar input{
     width: 100%;
     margin: auto;
-    padding: auto;  
+    padding: auto;
 
 }
 
@@ -19,6 +19,10 @@
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
+}
+
+.list-group{
+  margin-left: 4%;
 }
 
 .list-group-item{
